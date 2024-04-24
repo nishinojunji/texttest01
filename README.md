@@ -1,8 +1,8 @@
 # texttest01
 
-GitHubの練習用
+GitHubの練習用 プレイグラウンド
 
-西野
+[西野](nishino.md)
 髙橋
 水内
 長部
